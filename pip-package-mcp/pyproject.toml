@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools","wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcp_package"
+version = "0.0.0"
+description = "Example MCP pip package"
+authors = [ { name = "Example" } ]
+
+[project.scripts]
+# optional console script
+mcp-py-example = "mcp_package.__main__:main"

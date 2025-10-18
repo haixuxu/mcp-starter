@@ -1,0 +1,6 @@
+{
+  "name": "npm-package-mcp",
+  "version": "0.0.0",
+  "main": "index.js",
+  "bin": { "npm-mcp-example": "./index.js" }
+}

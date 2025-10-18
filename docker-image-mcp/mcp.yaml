@@ -1,0 +1,5 @@
+name: docker-image-mcp
+type: docker
+dockerfile: Dockerfile
+port: 8080
+description: Minimal Dockerized MCP exposing HTTP endpoint

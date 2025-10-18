@@ -1,0 +1,5 @@
+name: pip-package-mcp
+type: pip
+protocol: stdio
+entrypoint: python -m mcp_package
+description: Minimal pip-installable MCP example

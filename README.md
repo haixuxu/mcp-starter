@@ -1,0 +1,1 @@
+mcp example generate by claude code

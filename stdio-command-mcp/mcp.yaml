@@ -1,0 +1,5 @@
+name: stdio-command-mcp
+type: command
+protocol: stdio
+entrypoint: ./run.py
+description: Minimal stdio (command) MCP example

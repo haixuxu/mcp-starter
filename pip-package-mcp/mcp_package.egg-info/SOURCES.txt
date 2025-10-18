@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+mcp_package/__init__.py
+mcp_package/__main__.py
+mcp_package.egg-info/PKG-INFO
+mcp_package.egg-info/SOURCES.txt
+mcp_package.egg-info/dependency_links.txt
+mcp_package.egg-info/entry_points.txt
+mcp_package.egg-info/top_level.txt

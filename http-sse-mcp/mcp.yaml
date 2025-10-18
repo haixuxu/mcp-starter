@@ -1,0 +1,5 @@
+name: http-sse-mcp
+type: http
+protocol: sse
+port: 8080
+description: Minimal HTTP + SSE MCP example

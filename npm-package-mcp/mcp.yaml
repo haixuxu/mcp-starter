@@ -1,0 +1,5 @@
+name: npm-package-mcp
+type: npm
+protocol: stdio
+entrypoint: node ./index.js
+description: Minimal NPM-packaged MCP example
